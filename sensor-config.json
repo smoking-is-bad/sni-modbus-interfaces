@@ -1,0 +1,23 @@
+
+{
+"0": {
+    "Modbus-Address": "1",
+    "EUI": "",
+    "Serial-number": ""
+  },
+"1": {
+    "Modbus-Address": "2",
+    "EUI": "",
+    "Serial-number": ""
+  },
+"2": {
+    "Modbus-Address": "3",
+    "EUI": "",
+    "Serial-number": ""
+  },
+"3": {
+    "Modbus-Address": "4",
+    "EUI": "",
+    "Serial-number": ""
+  }
+}
